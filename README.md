@@ -1,1 +1,1 @@
-"# Wizard School" 
+# Wizard School
